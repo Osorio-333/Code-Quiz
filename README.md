@@ -1,3 +1,5 @@
+Link to deployed page: https://osorio-333.github.io/Code-Quiz/
+
 # 04 Web APIs: Code Quiz
 
 ## Your Task
